@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is repository is the result of the tutorial to how creating a NodeJS application using JWT(https://medium.com/@samarony.barros/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
+This is repository is the result of the tutorial to how creating a NodeJS application using JWT(https://medium.com/swlh/authentication-how-to-create-a-nodejs-application-using-jwt-cee8bc5a89fe)
 
 ## What you should install?
 
